@@ -13,8 +13,8 @@ import {
   ListBoxItem,
   Popover,
   useFilter,
-  UNSTABLE_ListLayout as ListLayout,
-  UNSTABLE_Virtualizer as Virtualizer,
+  ListLayout,
+  Virtualizer,
 } from "react-aria-components";
 import { faker } from "@faker-js/faker";
 
